@@ -8,7 +8,7 @@ description: >-
 
 ## What is Enter?
 
-EnterChain is a fast, scalable, and secure blockchain platform built on an IBFT2 consensus protocol.
+EnterChain is a fast, scalable, and secure blockchain platform built on HBFT (an IBFT2 consensus protocol).
 
 **Hyperthereum** protocol allows EnterChain to be very fast yet secure blockchain system. It brings together the best of both Hyperledger and Ethereum; as Ethereum us becoming a technology standard.
 

@@ -15,6 +15,8 @@
 * [Schema Structure](api/schema-structure.md)
 * [Implementation Details and Notes](api/implementation-details-and-notes.md)
 * [Covalent indexing and querying API](api/covalent-indexing-and-querying-api.md)
+* [API Methods](api/api-methods.md)
+* [API Objects](api/api-objects.md)
 
 ## Tutorials
 
