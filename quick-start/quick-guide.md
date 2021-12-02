@@ -8,7 +8,7 @@ EnterCoin blockchain is called the Quore, which is a high-performance, highly sc
 
 **Bonsai: From a Forest of Tries to a Bonsai Trie**
 
-The Quore uses **Bunsai** fıle format, which can dramatically decrease the size of data storage space needed for the blockchain data.&#x20;
+The Quore uses [**Bunsai**](../technology/bonsai-tries.md) **** fıle format, which can dramatically decrease the size of data storage space needed for the blockchain data.&#x20;
 
 {% hint style="info" %}
 #### EnterCoin total supply is a fixed 6,000,000 coins.
