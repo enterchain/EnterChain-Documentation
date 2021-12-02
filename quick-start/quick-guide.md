@@ -2,9 +2,13 @@
 
 ## Intro
 
-EnterChain is a high-performance, scalable, customizable, and secure smart-contract platform. EnterChain is permissionless, decentralized, and open-source.
+EnterCoin blockchain is called the Quore, which is a high-performance, highly scalable, customizable, and secure smart-contract platform. The Quore is permissionless, decentralized, and open-source.
 
 **HBFT consensus algorithm:** is asynchronous , leaderless, Byzantine Fault-Tolerant, to achieve instant transaction finality. The EnterChain testnet has served more than 40M transactions with a daily growth of more than 500k transactions.&#x20;
+
+**Bonsai: From a Forest of Tries to a Bonsai Trie**
+
+The Quore uses **Bunsai** fıle format, which can dramatically decrease the size of data storage space needed for the blockchain data.&#x20;
 
 {% hint style="info" %}
 #### EnterCoin total supply is a fixed 6,000,000 coins.

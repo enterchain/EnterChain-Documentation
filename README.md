@@ -4,7 +4,7 @@ description: >-
   EVM compatible.
 ---
 
-# Developer Documentation
+# EnterCoin Documentation
 
 ## What is Enter?
 
@@ -41,3 +41,7 @@ EnterChain is fully compatible with Ethereum. Developers can create and deploy s
 ### Blockchain-as-a-service
 
 Hyperthereum can be used to create any kind of private and public distributed ledger, using EVM or Cosmos SDK.
+
+### Blockchain for the masses
+
+EnterChain is a platform to creating blockchain networks, both isolated and sidechains, with an easy to use user interface.

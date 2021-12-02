@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Developer Documentation](README.md)
+* [EnterCoin Documentation](README.md)
 
 ## Quick Start
 
@@ -29,6 +29,7 @@
 
 ## Technology
 
+* [Bonsai Tries](technology/bonsai-tries.md)
 * [HBFT](technology/hbft.md)
 * [Rewards](technology/rewards.md)
 * [FAQ](technology/faq.md)
