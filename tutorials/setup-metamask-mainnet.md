@@ -1,4 +1,4 @@
-# Setup MetaMask (testnet)
+# Setup MetaMask (mainnet)
 
 1. **Select network**: Custom RPC
 
