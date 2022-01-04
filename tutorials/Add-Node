@@ -42,14 +42,17 @@ mkdir -p enterchain/node01/data
 cd enterchain
 
 ## Create the genesis file, and paste the contents from the genesis file into it:
+# Genesis File: https://github.com/enterchain/EnterChain-Documentation/blob/main/technology/genesis.json
 sudo nano genesis.json
    ( Save using Ctrl + O , then exit with Ctrl + x )
    
 ## create static-node.json file and paste the contents of static-nodes file into it:
+# Static-nodes: https://github.com/enterchain/EnterChain-Documentation/blob/main/technology/static-nodes.json
 sudo nano static-nodes.json
    ( Save using Ctrl + O , then exit with Ctrl + x )
 
 ## Create a file called config.toml in node01 folder. Paste contents of config.toml into it:
+# Config File: https://github.com/enterchain/EnterChain-Documentation/blob/main/technology/config.toml
 cd node01
 sudo nano config.toml
 
