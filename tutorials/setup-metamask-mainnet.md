@@ -6,10 +6,9 @@
 
 
 
-* **Network Name**: Enter Testnet
+* **Network Name**: Enter
 * **RPC URL:** https://tapi.entercoin.net
-* **Chain ID:** 1207
-* **Symbol:** entert
-* **Block explorer:** https://scantest.entercoin.net
+* **Chain ID:** 1214
+* **Symbol:** enter
+* **Block explorer:** https://scan.entercoin.net
 
-![](<../.gitbook/assets/Screenshot (57).png>)
