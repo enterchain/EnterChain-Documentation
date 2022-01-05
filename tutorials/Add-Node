@@ -72,7 +72,10 @@ It should start synchronization in few moments, or minutes. Depending on your ma
 
 # Default ports used:
 rpc-http-port=8545
-rpc-ws-port=8546e
+rpc-ws-port=8546
+graphql-http-port=8547
+metrics-port=9545
+p2p-port=30303
 
 # To use WEB3 API, make sure WEB3 is enabled. This is the default setting in config.toml
 
