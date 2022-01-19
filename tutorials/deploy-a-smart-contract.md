@@ -1,6 +1,6 @@
 # Deploy a Smart Contract
 
-Enter utilizes the Ethereum Virtual Machine (EVM) in the backend. Smart contracts are written in Solidity and they can function on Fantom as they do on Ethereum.
+Enter utilizes the Ethereum Virtual Machine (EVM) in the backend. Smart contracts are written in Solidity and they can function on EnterChain as they do on Ethereum.
 
 To deploy a smart contract, you send a Fantom transaction containing your bytecode without specifying any recipients.
 
