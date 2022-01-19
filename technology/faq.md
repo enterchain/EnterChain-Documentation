@@ -2,9 +2,9 @@
 
 This guide addresses as many questions you might have about Enter as possible. Please refer to this FAQ section before asking questions on Discord. If your question is still unanswered, please reach out to us through the chat function on our [website](https://entercoin.net) in the bottom right corner or join our Discord.
 
-[General questions](broken-reference)\
-[ENTER token](broken-reference)\
-[EnterChain network](broken-reference)
+[General questions](broken-reference/)\
+[ENTER token](broken-reference/)\
+[EnterChain network](broken-reference/)
 
 ## General questions
 
@@ -14,16 +14,6 @@ A consensus algorithm is a mechanism to reach agreement among nodes in distribut
 
 Nodes participating in the network maintain an exact copy of the ledger, allowing applications built on top of the consensus protocol to function correctly.
 
-### What is aBFT (asynchronous Byzantine Fault Tolerant) consensus? How is it different from blockchains such as Ethereum and Bitcoin?
-
-aBFT consensus stands for “asynchronous Byzantine Fault Tolerant” consensus. When a network is said to be “Byzantine Fault Tolerant”, it means that nodes can still reach an agreement on an ordering of events even if part of the network acts maliciously.
-
-Asynchronous BFT allows nodes in the network to confirm event blocks containing transactions without depending on any timing assumptions. This makes the confirmation of transactions by the network faster, without compromising security or decentralization.\
-When a transaction is confirmed by the network, it achieves complete finality and can’t be changed nor reverted. aBFT consensus reaches agreement on transactions even when some of the messages between nodes are lost, which makes the network more resilient
-
-Blockchains such as Ethereum and Bitcoin are synchronous, meaning that transactions are appended into blocks, one at a time. They follow the longest-chain rule in which the chain with the most number of blocks determines the final ordering of events. Transactions in earlier blocks have a much higher probability of being part of the final ordering of events compared to more recent transactions.\
-Therefore, these networks require multiple confirmations to ensure that a transaction is permanently part of the blockchain. This behavior leads to a slower confirmation of the transactions than in aBFT consensus.
-
 ### What is finality?
 
 Finality means that a transaction cannot be changed or reversed by any party. aBFT consensus algorithms such as Lachesis have a very low time to finality because they achieve absolute finality. Absolute finality means that a transaction is considered final once it is included in a block.
@@ -32,14 +22,6 @@ In the case of Enter, Enter Chain can accomplish finality in 1 to 2 seconds.\
 TxFlow can achieve finality in less than a second.
 
 Conversely, Nakamoto consensus protocols rely on probabilistic finality. In this case, the probability that a transaction won’t be reverted increases with time. The more blocks that are created on top of a block, thereby confirming it as correct, the more difficult and costlier it would be to revert a transaction in that block. At some point it becomes theoretically impossible to alter older blocks, increasing the probabilistic finality to near 100%.
-
-Bitcoin has finality of 30 to 60 minutes; when using Bitcoin you have to wait a few block confirmations before considering the transaction final and irreversible. Ethereum has a finality of a few minutes.
-
-### What is TxFlow?
-
-TxFlow is an aBFT middleware protocol designed for responsiveness. It runs together with a traditional consensus algorithm such as Lachesis, which guarantees network security.
-
-TxFlow can achieve sub-second latency, which makes it ideal for any application that requires instant confirmation. Check the [GitHub](https://github.com/Fantom-foundation/go-txflow) and the TxFlow [introduction](https://medium.com/fantomfoundation/introducing-txflow-the-protocol-for-responsiveness-a2e42bd5fc3c)
 
 ## ENTER token
 
@@ -89,7 +71,7 @@ ENTER is used as a collateral on the Enter DeFi suite with Visa crypto cards.
 
 ### How can I stake ENTER?
 
-Check out [this guide](broken-reference).
+Check out [this guide](broken-reference/).
 
 ### Can I stake ENTER on exchanges like Binance?
 
@@ -119,7 +101,7 @@ Opera is a fully decentralized blockchain network with smart contracts integrati
 ### Is Enter compatible with Ethereum smart contracts?
 
 Yes. EnterChain Network is fully compatible with the Ethereum Virtual Machine (EVM). It also has Web3JS API and RPC support.\
-All smart contracts written in Solidity or Vyper, compiled and deployed on Ethereum, are fully compatible with the Opera Network.
+All smart contracts written in Solidity or Vyper, compiled and deployed on Ethereum, are fully compatible with the ENTER Network.
 
 ### Is Enter compatible with Cosmos SDK?
 
