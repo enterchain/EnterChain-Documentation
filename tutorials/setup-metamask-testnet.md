@@ -1,2 +1,0 @@
-# Setup MetaMask (testnet)
-

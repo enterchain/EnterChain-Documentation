@@ -6,9 +6,7 @@
 All Covalent **Class A** endpoints are supported for the Enter mainnet and testnet. You can query the network via the unified API by changing the`chainId`parameter:
 
 * Mainnet: `1214`
-* Testnet: `1207`
-
-All requests to the Covalent API are done over HTTPS (calls over plain HTTP will fail.)
+* All requests to the Covalent API are done over HTTPS (calls over plain HTTP will fail.)
 {% endhint %}
 
 * `api.covalenthq.com/v1/{chainId}/address/{address}/balances_v2/`

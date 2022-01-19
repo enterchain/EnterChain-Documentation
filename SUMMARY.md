@@ -15,13 +15,12 @@
 * [Schema Structure](api/schema-structure.md)
 * [Implementation Details and Notes](api/implementation-details-and-notes.md)
 * [Covalent indexing and querying API](api/covalent-indexing-and-querying-api.md)
-* [API Methods](api/api-methods.md)
 * [API Objects](api/api-objects.md)
 * [Postman](api/postman.md)
 
 ## Tutorials
 
-* [Setup MetaMask (testnet)](tutorials/setup-metamask-testnet.md)
+* [Setup MetaMask (Mainnet)](tutorials/setup-metamask-mainnet.md)
 * [Deploy a Smart Contract](tutorials/deploy-a-smart-contract.md)
 * [Create a Fixed-cap Asset](tutorials/create-a-fixed-cap-asset.md)
 * [Create a Variable-cap Asset](tutorials/create-a-variable-cap-asset.md)

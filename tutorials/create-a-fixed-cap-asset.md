@@ -39,4 +39,4 @@ _General_
 
 ### 3. Deploy your Fixed-cap Asset by sending your code in a transaction to the Enter network <a href="#3.-deploy-your-fixed-cap-asset-by-sending-your-code-in-a-transaction-to-the-fantom-network" id="3.-deploy-your-fixed-cap-asset-by-sending-your-code-in-a-transaction-to-the-fantom-network"></a>
 
-### 4. Navigate to [the explorer](https://scantest.entercoin.net) to check that your token has been created <a href="#4.-navigate-to-the-explorer-to-check-that-your-token-has-been-created" id="4.-navigate-to-the-explorer-to-check-that-your-token-has-been-created"></a>
+### 4. Navigate to [the explorer](https://scan.entercoin.net) to check that your token has been created <a href="#4.-navigate-to-the-explorer-to-check-that-your-token-has-been-created" id="4.-navigate-to-the-explorer-to-check-that-your-token-has-been-created"></a>

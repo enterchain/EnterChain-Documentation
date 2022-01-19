@@ -2,15 +2,15 @@
 
 Enter utilizes the Ethereum Virtual Machine (EVM) in the backend. Smart contracts are written in Solidity and they can function on EnterChain as they do on Ethereum.
 
-To deploy a smart contract, you send a Fantom transaction containing your bytecode without specifying any recipients.
+To deploy a smart contract, you send a ENTER transaction containing your bytecode without specifying any recipients.
 
-After the contract is deployed, it will be available to all users of the Fantom network.\
+After the contract is deployed, it will be available to all users of the ENTER network.\
 Smart contracts have a Fantom address like other accounts.
 
 ## **Requirements**
 
 * Bytecode (compiled code) of your smart contract
-* ENTERt for gas costs
+* ENTER for gas costs
 * Deployment script/plugin
 * Access to an Enter node, either by running your own node or API access to a node.
 
