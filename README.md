@@ -12,6 +12,8 @@ EnterChain is a fast, scalable, and secure blockchain platform built on HBFT (an
 
 **Hyperthereum** protocol allows EnterChain to be very fast yet secure blockchain system. It brings together the best of both Hyperledger and Ethereum; as Ethereum us becoming a technology standard.
 
+![](.gitbook/assets/hyperthereum.jpeg)
+
 EnterChain is:
 
 * smart contracts permissions managed
